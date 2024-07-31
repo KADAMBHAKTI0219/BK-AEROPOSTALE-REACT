@@ -1,0 +1,49 @@
+{
+ "womenProducts":[
+  {
+    "id":1,
+     "title":"Satin Lace-Trim Cami",
+    "images":[
+        "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw469d082f/83191988_047_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg","https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9f4d2d73/83191988_047_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg","https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw3ed6b087/83191988_047_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg","https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw9f7985ec/83191988_047_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg","https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwd6fcd0b8/83191649_645_main.jpg?sw=478&sh=557&sm=fit&sfrm=jpg","https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf5098234/83191649_645_alt1.jpg?sw=478&sh=557&sm=fit&sfrm=jpg","https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw51abf949/83191649_645_alt2.jpg?sw=478&sh=557&sm=fit&sfrm=jpg","https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dwf93e3c70/83191649_645_alt3.jpg?sw=478&sh=557&sm=fit&sfrm=jpg"
+    ],
+    "price":[
+        19.98,39.95
+    ],
+    "color":[
+        "cream","mauve red"
+    ],
+    "size":["XS","S","M","L","XL","XXL"],
+    "description": "A so-sweet satin cami with the prettiest details: feminine lace trim, perfect pleats and a ruffled back hem.",
+    "details": {
+        "fabric": "Satin",
+        "features": [
+            "Front tie with keyhole",
+            "Lace trim",
+            "Front pleat details",
+            "Back waist ruffle"
+        ],
+        "style": "1988",
+        "origin": "Imported"
+    },
+    "fit": {
+        "style": "Slim fit",
+        "neckline": "Sweetheart",
+        "straps": "Adjustable",
+        "back_panel": "Stretchy smocked",
+        "approx_length_m": "20.25 inches",
+        "model_height": "5'10\"",
+        "model_size": "Small"
+    },
+    "care_materials": {
+        "shell_lining": "100% polyester",
+        "lace": "100% nylon",
+        "care_instructions": "Machine wash/dry flat"
+    }
+  }
+ ],
+ "menProducts":[
+  {
+
+  }
+ ]
+}
